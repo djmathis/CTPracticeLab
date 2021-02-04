@@ -1,0 +1,8 @@
+# Ignore README
+README.txt
+
+# Ignore output folder
+output/
+
+# Ignore java files
+*.java
